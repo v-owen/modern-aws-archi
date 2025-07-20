@@ -5,7 +5,7 @@
 Architecture Explanation & Demo:
 <p><img align="left" src="https://github.com/user-attachments/assets/c4402f27-d22b-4148-b4ea-889a7b465ab7" alt="Demo Preview" /></p>
 
-Live Demo: [Click Me!](https://www.simplifiedaws.com/)
+Live Demo (Domain Lease Finished)
 
 To replicate, follow these steps:
 ```sh
